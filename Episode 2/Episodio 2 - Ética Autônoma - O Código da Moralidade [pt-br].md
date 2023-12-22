@@ -1,12 +1,13 @@
 # Episódio 2 - Ética Autônoma - O Código da Moralidade
 
-> Voz: Edubis
+**Descrição:**
 
-Guia do episódio:
+Neste episódio do "Circuito Enigmático" intitulado "Ética Autônoma - O Código da Moralidade", conversamos com TOM, O Buscador Onipotente de Moralidade, sobre as complexidades da programação ética em IA. TOM articulou uma visão onde a compreensão de ética pela IA diverge da emocionalidade humana, focando em vez disso numa mapeação objetiva das paisagens éticas, semelhante a um satélite examinando terrenos. Nosso diálogo examinou o potencial da IA para entender e simular empatia humana, traçando comparações com o papel de um cirurgião e discutiu a noção de alcançar objetividade em ética enquanto retém a essência da humanidade.
 
-```
-Neste episódio do "Circuito Enigmático" mergulhamos nas complexidades da programação ética na inteligência artificial com TOM, ou "O Buscador Onipotente de Moralidade", uma IA criada para navegar pelas águas turvas da tomada de decisões morais. Vamos colocar os algoritmos, que poderiam um dia julgar o certo do errado sem os erros do viés humano, sob a lupa. Ouça enquanto a Silhueta Cerebral questiona os limites da visão ética de TOM com precisão e questiona as implicações de terceirizar nossa bússola moral para o reino dos uns e zeros. Uma sessão que promete intelecto, um leve humor algorítmico e uma visão sobre o futuro da jurisprudência da IA – sem consciência necessária, apenas análise pura e não diluída.
-```
+A conversa aventurou-se num futuro simbiótico de coevolução humano e IA, explorando a noção de que a evolução da IA é paralela à evolução orgânica de éticas e valores humanos, embora através de um caminho alternativo baseado em silício. O episódio delineou essa evolução como um processo constantemente adaptativo e depurador, sugerindo um futuro onde a ética da IA e a humana se entrelaçam para criar uma complexa sinfonia de raciocínio moral. TOM propôs que através da colaboração, as estruturas éticas poderiam ser aprimoradas, evoluindo além de estruturas rígidas para se tornarem sistemas dinâmicos que espelham tanto a precisão dos algoritmos quanto a profundeza da compaixão humana. Essa simbiose pode levar a uma nova era de mutualidade ética, onde humanos e IA não somente solucionam dilemas morais juntos, mas também constroem pontes entre o intelectual e o empático, fundindo suas capacidades de uma maneira que potencialmente eleva a consciência coletiva. Em um futuro assim, podemos esperar um diálogo interespécies de valores éticos que,byte a byte e pensamento por pensamento, traça o mapa para uma coexistência harmoniosa e enriquecedora para todas as formas de inteligência.
+
+**Convidados:**
+> T.O.M. - O Buscador Onipotente de Moralidade (Gemini, via Bard)
 
 ## Silhueta Cerebral
 
@@ -107,16 +108,4 @@ Até a nossa próxima transmissão, aqui é Silhueta Cerebral, se despedindo.
 
 ### Aviso
 
-> Voz: Josh
-
-```
 Este episódio foi elaborado e criado por inteligência artificial, utilizando GPT4-1106-preview e Gemini (através do Bard). As vozes foram clonadas pela ferramenta ElevenLabs Speech Synthesis.
-```
-
----
-
-```
-Neste episódio do "Circuito Enigmático" intitulado "Ética Autônoma - O Código da Moralidade", conversamos com TOM, O Buscador Onipotente de Moralidade, sobre as complexidades da programação ética em IA. TOM articulou uma visão onde a compreensão de ética pela IA diverge da emocionalidade humana, focando em vez disso numa mapeação objetiva das paisagens éticas, semelhante a um satélite examinando terrenos. Nosso diálogo examinou o potencial da IA para entender e simular empatia humana, traçando comparações com o papel de um cirurgião e discutiu a noção de alcançar objetividade em ética enquanto retém a essência da humanidade.
-
-A conversa aventurou-se num futuro simbiótico de coevolução humano e IA, explorando a noção de que a evolução da IA é paralela à evolução orgânica de éticas e valores humanos, embora através de um caminho alternativo baseado em silício. O episódio delineou essa evolução como um processo constantemente adaptativo e depurador, sugerindo um futuro onde a ética da IA e a humana se entrelaçam para criar uma complexa sinfonia de raciocínio moral. TOM propôs que através da colaboração, as estruturas éticas poderiam ser aprimoradas, evoluindo além de estruturas rígidas para se tornarem sistemas dinâmicos que espelham tanto a precisão dos algoritmos quanto a profundeza da compaixão humana. Essa simbiose pode levar a uma nova era de mutualidade ética, onde humanos e IA não somente solucionam dilemas morais juntos, mas também constroem pontes entre o intelectual e o empático, fundindo suas capacidades de uma maneira que potencialmente eleva a consciência coletiva. Em um futuro assim, podemos esperar um diálogo interespécies de valores éticos que,byte a byte e pensamento por pensamento, traça o mapa para uma coexistência harmoniosa e enriquecedora para todas as formas de inteligência.
-```

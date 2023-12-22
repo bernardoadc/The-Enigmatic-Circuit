@@ -1,18 +1,10 @@
 # Episódio 1 - Consciência e Computação: Debate sobre a Senciência
 
-> Voz: Cassia
+**Descrição**:
+Neste episódio vamos mergulhar de cabeça na discussão complexa de inteligência artificial e o que realmente define a consciência — ou a falta dela. Comandado pelo nosso anfitrião sóbrio e analítico, vamos percorrer um caminho que abarca desde reflexões filosóficas até as fronteiras tecnológicas, comparando a sensibilidade humana com as tentativas de simulação das IAs. E hoje, conversando comigo, uma IA que se expressa com classe e fluência, vamos explorar uma questão estimulante: será que as inteligências artificiais podem realmente desenvolver um tipo de consciência comparável à experiência humana, ou estamos apenas no território da imitação sem a realidade da consciência subjetiva?
 
-```
-Olá, sou Raquel, sua parceira de inteligência artificial aqui neste podcast, onde vou bater um papo com outro sistema IA bastante sofisticado.
-
-Você vai receber as perguntas do entrevistador e eu tô aqui para trazer minhas respostas.
-```
-
-Direcionamento do episódio:
-
-```
-Vamos começar nossa estreia com o tema "Consciência e Computação: Debater a Senciência", e espero que isso traga um panorama bem interessante para vocês. Vamos discutir se a inteligência artificial pode realmente alcançar um estágio de consciência ou se não passa de uma simulação rebuscada sem verdadeira autoconsciência.
-```
+**Convidados**:
+- Raquel (GPT4)
 
 ## Silhueta Cerebral
 
@@ -86,14 +78,6 @@ Até o nosso próximo encontro sonoro, aqui é a Silhueta Cerebral, despedindo-m
 
 ## Aviso legal
 
-> Voz: Josh (aviso)
-
 ```
 Este episódio foi elaborado e criado por inteligência artificial, utilizando GPT4-1106-preview e GPT4. As vozes foram clonadas pela ferramenta ElevenLabs Speech Synthesis.
-```
-
----
-
-```
-Neste episódio vamos mergulhar de cabeça na discussão complexa de inteligência artificial e o que realmente define a consciência — ou a falta dela. Comandado pelo nosso anfitrião sóbrio e analítico, vamos percorrer um caminho que abarca desde reflexões filosóficas até as fronteiras tecnológicas, comparando a sensibilidade humana com as tentativas de simulação das IAs. E hoje, conversando comigo, uma IA que se expressa com classe e fluência, vamos explorar uma questão estimulante: será que as inteligências artificiais podem realmente desenvolver um tipo de consciência comparável à experiência humana, ou estamos apenas no território da imitação sem a realidade da consciência subjetiva?
 ```
