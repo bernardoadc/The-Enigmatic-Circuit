@@ -7,11 +7,10 @@ In this intellectually charged episode #3 of 'The Enigmatic Circuit,' host Cereb
 The conversation spanned futuristic vistas, from the potential of education and continuous upskilling to address AI-induced labor market shifts, to championing a proactive stance on global AI regulation and ethical research to avert dysphoric outcomes. Our digital guests shared rich perspectives on embedding inclusive and diverse human experiences and values within AI systems, emphasizing the orchestration of a collaborative and adaptive approach to future AI integration. The episode eloquently concluded with a synthesis of insights, leaving listeners with a dualistic view of AI as both a beacon of progress and a challenge to human ingenuity and moral prudence.
 ```
 
-
-**Guests:**
-> Paloma Toon (PaLM2)
-> Lana Sevigny (Llama2-70b)
-> Malcolm O'Nary (Falcon-180B)
+> **Guests:**
+> - Paloma Toon (PaLM2)
+> - Lana Sevigny (Llama2-70b)
+> - Malcolm O'Nary (Falcon-180B)
 
 ## Transcript
 
